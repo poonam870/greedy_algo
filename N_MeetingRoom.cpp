@@ -47,3 +47,5 @@ int main() {
     }
     return 0;
 }
+//time complexity:O(n logn)
+space:O(n)
